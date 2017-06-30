@@ -1,0 +1,1 @@
+start mongod --dbpath=D:\MongoDB\Server\3.4\bin\data\db

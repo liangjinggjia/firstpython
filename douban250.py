@@ -4,7 +4,19 @@ import requests,re,math,os
 from bs4 import BeautifulSoup
 
 
+
+
+
 def get_html(url):
+    headers = {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, sdch, br",
+        "Accept-Language": "en-US,en;q=0.8,zh-TW;q=0.6,zh;q=0.4",
+        "Connection": "keep-alive",
+        "Content-Type":" application/x-www-form-urlencoded; charset=UTF-8",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+        "Referer": "https://movie.douban.com/top250"
+    }
     try:
         r=requests.get(url,timeout=30)
         r.raise_for_status()
@@ -34,7 +46,8 @@ def get_content(pageno):
             beforeintroduce=re.findall(r'/\s(.*)\s*</p>',str(bd))[0]
             # $表示匹配最后一项符合要求的
             introduce=re.findall(r'[^/]+$',str(beforeintroduce))[0]
-            print("片名：{}\t{}\n{}\n{} \n \n ".format(name,year,director,introduce) )
+            # print("片名：{}\t{}\n{}\n{} \n \n ".format(name,year,director,introduce) )
+
             if(os.path.exists(r'douban250img/{}.png'.format(name))!=True):
                 with open('douban250img/'+name+'.png','wb+') as f:
                     f.write(requests.get(img_url).content)
@@ -58,7 +71,6 @@ if __name__=='__main__':
     pageno=get_pageno(soup)
     for i in range(1,pageno+1):
         get_content(i)
-    # get_content(4)
 
 
 
