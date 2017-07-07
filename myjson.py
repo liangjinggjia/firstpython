@@ -5,7 +5,7 @@ import json
 
 url='https://www.toutiao.com/stream/widget/local_weather/city/'
 datas=requests.get(url).text
-# print(datas)
+print(datas)
 result=json.loads(datas)
 city=result['data']
 print(city['上海']['上海'])

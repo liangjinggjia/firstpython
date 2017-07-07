@@ -41,6 +41,7 @@ def get_content(pageno):
             except:
                 year='none'
                 #两次则这选出导演
+            s=re.findall(r'导演:(.*)',str(bd))
             director=re.findall(r'(.*)\s{3}',str(re.findall(r'导演:(.*)',str(bd))[0]))[0]
             #两次正则选出类型
             beforeintroduce=re.findall(r'/\s(.*)\s*</p>',str(bd))[0]
