@@ -1,6 +1,6 @@
 # coding:utf-8
 
-import requests,re,pymysql
+import requests,re,pymysql,os
 
 def get_data(cur,conn):
     url='http://hqdata.jrj.com.cn/sgt/top10_sz_1year.js'
