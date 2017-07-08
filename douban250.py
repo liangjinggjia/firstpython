@@ -32,7 +32,7 @@ def get_content(pageno):
     movies=soup.find('ol',class_='grid_view').find_all('li')
     for m in movies:
 
-        try:
+        # try:
             bd=m.select('.info .bd p')
             img_url=m.find('img')['src']
             name=m.select('.info .hd a .title')[0].text
@@ -51,8 +51,8 @@ def get_content(pageno):
             if(os.path.exists(r'douban250img/{}.png'.format(name))!=True):
                 with open('douban250img/'+name+'.png','wb+') as f:
                     f.write(requests.get(img_url).content)
-        except:
-            print('在{0}页出问题'.format(pageno))
+        # except:
+        #     print('在{0}页出问题'.format(pageno))
 
 
 def get_pageno(soup):

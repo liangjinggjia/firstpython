@@ -105,10 +105,10 @@ if __name__=='__main__':
         get_content(i)
 
 
-    movies=db.douban250.find()
-    for m in movies:
-        print(m['name'])
-        save_img_to_disk(m['imgid'],m['name'])
+    # movies=db.douban250.find()
+    # for m in movies:
+    #     print(m['name'])
+    #     save_img_to_disk(m['imgid'],m['name'])
 
     client.close()
 
