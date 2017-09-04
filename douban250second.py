@@ -1,6 +1,6 @@
 #encoding:utf-8
 
-import requests,re,math,gridfs,time
+import requests,re,math,gridfs,time,os
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
 
@@ -51,14 +51,14 @@ def get_content(page_no):
             introduce=re.findall(r'[^/]+$',str(beforeintroduce))[0]
             # print("片名：{}\t{}\n{}\n{} \n \n ".format(name,year,director,introduce) )
 
-            print(type(db.douban250.find_one({'name':'pppp'})))
             if db.douban250.find_one({'name':name})==None:
                 _img_id=fs.put(requests.get(img_url).content)
                 return db.douban250.save(dict(name=name,year=year,director=director,introduce=introduce,imgid=_img_id,time=time.time()))
             print(name+'已存在')
-            # if(os.path.exists(r'douban250img/{}.png'.format(name))!=True):
-            #     with open('douban250img/'+name+'.png','wb') as f:
-            #         f.write(requests.get(img_url).content)
+
+            if(not os.path.exists(r'douban250img/{}.png'.format(name))):
+                with open('douban250img/'+name+'.png','wb+') as f:
+                    f.write(requests.get(img_url).content)
         except:
             print('在{0}页出问题'.format(page_no))
 
@@ -73,7 +73,7 @@ def get_page_no(soup):
 
 def save_img_to_disk(img_id,name):
     img=fs.find_one({'_id':img_id})
-    tp_file = open('d:/img/' + name + '.jpg', "wb")
+    tp_file = open('d:/img/' + name + '.jpg', "wb+")
     tp_file.write(img.read())
     tp_file.close()
 
@@ -101,6 +101,8 @@ if __name__=='__main__':
     soup=get_html(url)
     # print(type(soup))
     page_no=get_page_no(soup)
+    if not os.path.exists(r'douban250img'):
+        os.makedirs(r'douban250img')
     for i in range(1,page_no+1):
         get_content(i)
 
