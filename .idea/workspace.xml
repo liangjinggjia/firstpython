@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16e95074-7a2f-45c1-affd-14022f0027ff" name="Default" comment="firstpython爬虫">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chigu_fund.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chigu_hu_shen_gutong.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chigu_matplotlib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hu_gu_tong_analyze.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/malplotlib_hu_gu_tong.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/malplotlib_jinrongjie.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/malplotlib_shen_gu_tong.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/matplot_jinrong_sanmache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shen_gu_tong_analyze.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shen_gu_tong_analyze_jinrongjie.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shen_gutong_and_hu_gutong.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shen_gutong_jinrongjie.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/try_shuzu_zifucuan.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban250.py" afterPath="$PROJECT_DIR$/douban250.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/malplotlib.py" afterPath="$PROJECT_DIR$/malplotlib.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/try.py" afterPath="$PROJECT_DIR$/try.py" />
     </list>
     <list id="4e3c0bcf-51fa-492f-9811-4d21242e71b8" name="Failed commit: Default" comment="firstpython爬虫" />
     <ignored path="firstpython.iws" />
@@ -18,11 +35,31 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/firstpython$douban250second.coverage" NAME="douban250second Coverage Results" MODIFIED="1499042593773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/firstpython$douban250.coverage" NAME="douban250 Coverage Results" MODIFIED="1499053112270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/firstpython$myjson.coverage" NAME="myjson Coverage Results" MODIFIED="1499045488519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$malplotlib_hu_gu_tong.coverage" NAME="malplotlib_hu_gu_tong Coverage Results" MODIFIED="1501565461517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$try_1.coverage" NAME="try_1 Coverage Results" MODIFIED="1502085569791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$douban250.coverage" NAME="douban250 Coverage Results" MODIFIED="1500809712939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$shen_gu_tong_analyze.coverage" NAME="shen_gu_tong_analyze Coverage Results" MODIFIED="1502777763815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$shen_gutong_and_hu_gutong.coverage" NAME="shen_gutong_and_hu_gutong Coverage Results" MODIFIED="1502772122571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$chigu_hu_shen_gutong.coverage" NAME="chigu_hu_shen_gutong Coverage Results" MODIFIED="1502778280196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$malplotlib.coverage" NAME="malplotlib Coverage Results" MODIFIED="1500166620055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$try_shuzu_zifucuan.coverage" NAME="try_shuzu_zifucuan Coverage Results" MODIFIED="1499922907119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$shen_gu_tong.coverage" NAME="shen_gu_tong Coverage Results" MODIFIED="1501294514998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$chigu_matplotlib.coverage" NAME="chigu_matplotlib Coverage Results" MODIFIED="1501997736831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$malplotlib_2.coverage" NAME="malplotlib_2 Coverage Results" MODIFIED="1501217496229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/firstpython$matplot.coverage" NAME="matplot Coverage Results" MODIFIED="1499320896285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/firstpython$shen_gutong_json.coverage" NAME="shen_gutong_json Coverage Results" MODIFIED="1499079836552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/firstpython" />
+    <SUITE FILE_PATH="coverage/firstpython$try.coverage" NAME="try Coverage Results" MODIFIED="1501563665109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$shen_gu_tong_2.coverage" NAME="shen_gu_tong_2 Coverage Results" MODIFIED="1500860275775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$shen_gu_tong_analyze_jinrongjie.coverage" NAME="shen_gu_tong_analyze_jinrongjie Coverage Results" MODIFIED="1502776263071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$chigu_fund.coverage" NAME="chigu_fund Coverage Results" MODIFIED="1503104730366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$o.coverage" NAME="o Coverage Results" MODIFIED="1500272243516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$malplotlib_shen_gu_tong.coverage" NAME="malplotlib_shen_gu_tong Coverage Results" MODIFIED="1502112912221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$douban250second.coverage" NAME="douban250second Coverage Results" MODIFIED="1499042593773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$myjson.coverage" NAME="myjson Coverage Results" MODIFIED="1499045488519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$shen_gutong_json_2.coverage" NAME="shen_gutong_json_2 Coverage Results" MODIFIED="1500859160450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$shen_gutong_json.coverage" NAME="shen_gutong_json Coverage Results" MODIFIED="1501293705979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$matplot_jinrong_sanmache.coverage" NAME="matplot_jinrong_sanmache Coverage Results" MODIFIED="1503114812772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$fund.coverage" NAME="fund Coverage Results" MODIFIED="1500820004889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstpython$hu_gu_tong_analyze.coverage" NAME="hu_gu_tong_analyze Coverage Results" MODIFIED="1502778237510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -33,86 +70,191 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="douban250second.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/douban250second.py">
+      <file leaf-file-name="chigu_hu_shen_gutong.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chigu_hu_shen_gutong.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.03472631">
-              <caret line="42" column="23" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
               <folding>
-                <element signature="e#17#55#0" expanded="true" />
+                <marker date="1504532066567" expanded="true" signature="228:282" placeholder="SELECT date " />
+                <marker date="1504532066567" expanded="true" signature="2418:2690" placeholder="INSERT INTO `chigu`.`shang_zheng`... " />
+                <marker date="1504532066567" expanded="true" signature="2716:2989" placeholder="INSERT INTO `chigu`.`shen_zheng`... " />
+                <marker date="1504532066567" expanded="true" signature="3568:3606" placeholder="SELECT max(d... shen_zheng" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myjson.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myjson.py">
+      <file leaf-file-name="chigu_fund.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chigu_fund.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="62" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shen_gutong_json.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shen_gutong_json.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
               <folding>
-                <marker date="1499406978348" expanded="true" signature="930:1164" placeholder="INSERT INTO `gushi`.`shen_money`... " />
+                <element signature="e#0#26#0" expanded="true" />
+                <marker date="1504532066566" expanded="true" signature="1054:1074" placeholder="INSERT INTO `fund`.... " />
+                <marker date="1504532066566" expanded="true" signature="1054:1201" placeholder="INSERT INTO `fund`.`missing_value`... " />
+                <marker date="1504532066566" expanded="true" signature="1610:1704" placeholder="select TABLE... TABLES" />
+                <marker date="1504532066566" expanded="true" signature="1890:1925" placeholder="create table... if" />
+                <marker date="1504532066566" expanded="true" signature="1890:2199" placeholder="CREATE TABLE... missing_value" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="firstpython.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstpython.iml">
+      <file leaf-file-name="chigu_matplotlib.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chigu_matplotlib.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="151" column="4" selection-start-line="151" selection-start-column="4" selection-end-line="151" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+                <marker date="1504532066568" expanded="true" signature="2895:2988" placeholder="SELECT mai_c... " />
+                <marker date="1504532066568" expanded="true" signature="2895:3001" placeholder="SELECT mai_c... " />
+                <marker date="1504532066568" expanded="true" signature="3344:3424" placeholder="SELECT date,... " />
+                <marker date="1504532066568" expanded="true" signature="3344:3437" placeholder="SELECT date,... " />
+                <marker date="1504532066568" expanded="true" signature="3882:3961" placeholder="SELECT date,... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="matplot_jinrong_sanmache.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/matplot_jinrong_sanmache.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.16719243">
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="finance.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Anaconda3/Lib/site-packages/matplotlib/finance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="415" column="32" selection-start-line="415" selection-start-column="4" selection-end-line="415" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run-mongod.bat" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run-mongod.bat">
+      <file leaf-file-name="shen_gutong_and_hu_gutong.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shen_gutong_and_hu_gutong.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <caret line="100" column="82" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="82" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+                <marker date="1504532066578" expanded="true" signature="2439:2564" placeholder="INSERT INTO `gushi`.`shen_money`... " />
+                <marker date="1504532066578" expanded="true" signature="2439:2659" placeholder="INSERT INTO `shen_zheng_gushi`.`shen_gutong`... " />
+                <marker date="1504532066578" expanded="true" signature="2439:2660" placeholder="INSERT INTO `gushi`.`shen_money`... " />
+                <marker date="1504532066578" expanded="true" signature="3027:3062" placeholder="SELECT date " />
+                <marker date="1504532066578" expanded="true" signature="3027:3063" placeholder="SELECT date " />
+                <marker date="1504532066578" expanded="true" signature="3027:3066" placeholder="SELECT date " />
+                <marker date="1504532066578" expanded="true" signature="3027:3081" placeholder="SELECT date " />
+                <marker date="1504532066578" expanded="true" signature="3027:3082" placeholder="SELECT date " />
+                <marker date="1504532066578" expanded="true" signature="3363:3600" placeholder="create table... if" />
+                <marker date="1504532066578" expanded="true" signature="3700:3814" placeholder="INSERT INTO `gushi`.`missing_value`... " />
+                <marker date="1504532066578" expanded="true" signature="4148:4200" placeholder="SELECT max(d... shang_gutong" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="try.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/try.py">
+      <file leaf-file-name="shen_gu_tong_analyze_jinrongjie.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shen_gu_tong_analyze_jinrongjie.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+              <folding>
+                <marker date="1504532066577" expanded="true" signature="106:177" placeholder="select disti... shen_money" />
+                <marker date="1504532066577" expanded="true" signature="326:351" placeholder="DROP TABLE I... " />
+                <marker date="1504532066577" expanded="true" signature="352:564" placeholder="CREATE TABLE... missing_value" />
+                <marker date="1504532066577" expanded="true" signature="578:680" placeholder="INSERT INTO `gushi`.`missing_value`... " />
+                <marker date="1504532066577" expanded="true" signature="1252:1320" placeholder="select TABLE... TABLES" />
+                <marker date="1504532066577" expanded="true" signature="1252:1343" placeholder="select TABLE... TABLES" />
+                <marker date="1504532066577" expanded="true" signature="1252:1347" placeholder="select TABLE... TABLES" />
+                <marker date="1504532066577" expanded="true" signature="1252:1348" placeholder="select TABLE... TABLES" />
+                <marker date="1504532066577" expanded="true" signature="1484:1586" placeholder="INSERT INTO `gushi`.`missing_value`... " />
+                <marker date="1504532066577" expanded="true" signature="1957:2182" placeholder="create table... if" />
+                <marker date="1504532066577" expanded="true" signature="2307:2409" placeholder="INSERT INTO `gushi`.`missing_value`... " />
+                <marker date="1504532066577" expanded="true" signature="2816:2840" placeholder="SELECT date " />
+                <marker date="1504532066577" expanded="true" signature="2816:2845" placeholder="SELECT date " />
+                <marker date="1504532066577" expanded="true" signature="3032:3139" placeholder="SELECT date,... " />
+                <marker date="1504532066577" expanded="true" signature="3591:3619" placeholder="SELECT id,cl... " />
+                <marker date="1504532066577" expanded="true" signature="3591:3634" placeholder="SELECT id,cl... " />
+                <marker date="1504532066577" expanded="true" signature="3591:3636" placeholder="SELECT id,cl... " />
+                <marker date="1504532066577" expanded="true" signature="3650:3680" placeholder="SELECT close... " />
+                <marker date="1504532066577" expanded="true" signature="3650:3692" placeholder="SELECT close... " />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="matplot.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/matplot.py">
+      <file leaf-file-name="hu_gu_tong_analyze.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hu_gu_tong_analyze.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-              <folding />
+              <caret line="75" column="100" selection-start-line="75" selection-start-column="100" selection-end-line="75" selection-end-column="100" />
+              <caret line="75" column="118" selection-start-line="75" selection-start-column="118" selection-end-line="75" selection-end-column="118" />
+              <folding>
+                <element signature="e#15#38#0" expanded="true" />
+                <marker date="1504532066569" expanded="true" signature="106:191" placeholder="select disti... shang_gutong" />
+                <marker date="1504532066569" expanded="true" signature="340:365" placeholder="DROP TABLE I... " />
+                <marker date="1504532066569" expanded="true" signature="366:590" placeholder="CREATE TABLE... missing_value" />
+                <marker date="1504532066569" expanded="true" signature="604:718" placeholder="INSERT INTO `shang_zheng_gushi`.`missing_value`... " />
+                <marker date="1504532066569" expanded="true" signature="1225:1269" placeholder="SELECT max(d... missing_value" />
+                <marker date="1504532066569" expanded="true" signature="1501:1608" placeholder="select TABLE... TABLES" />
+                <marker date="1504532066569" expanded="true" signature="1745:1859" placeholder="INSERT INTO `shang_zheng_gushi`.`missing_value`... " />
+                <marker date="1504532066569" expanded="true" signature="2230:2467" placeholder="create table... if" />
+                <marker date="1504532066569" expanded="true" signature="2593:2707" placeholder="INSERT INTO `shang_zheng_gushi`.`missing_value`... " />
+                <marker date="1504532066569" expanded="true" signature="3112:3153" placeholder="SELECT date " />
+                <marker date="1504532066569" expanded="true" signature="3340:3469" placeholder="SELECT date,... " />
+                <marker date="1504532066569" expanded="true" signature="3921:3976" placeholder="SELECT id,cl... " />
+                <marker date="1504532066569" expanded="true" signature="3992:4046" placeholder="SELECT close... " />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="douban250.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/douban250.py">
+      <file leaf-file-name="malplotlib_shen_gu_tong.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/malplotlib_shen_gu_tong.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-              <folding />
+              <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+                <marker date="1504532066574" expanded="true" signature="2206:2299" placeholder="SELECT mai_c... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shen_gu_tong_analyze.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shen_gu_tong_analyze.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="113" column="27" selection-start-line="95" selection-start-column="4" selection-end-line="113" selection-end-column="27" />
+              <folding>
+                <element signature="e#15#38#0" expanded="true" />
+                <marker date="1504532066576" expanded="true" signature="106:189" placeholder="select disti... shen_gutong" />
+                <marker date="1504532066576" expanded="true" signature="338:363" placeholder="DROP TABLE I... " />
+                <marker date="1504532066576" expanded="true" signature="364:587" placeholder="CREATE TABLE... missing_value" />
+                <marker date="1504532066576" expanded="true" signature="601:714" placeholder="INSERT INTO `shen_zheng_gushi`.`missing_value`... " />
+                <marker date="1504532066576" expanded="true" signature="1221:1261" placeholder="SELECT max(d... shen_zheng_gushi." />
+                <marker date="1504532066576" expanded="true" signature="1221:1264" placeholder="SELECT max(d... " />
+                <marker date="1504532066576" expanded="true" signature="1496:1602" placeholder="select TABLE... TABLES" />
+                <marker date="1504532066576" expanded="true" signature="1739:1852" placeholder="INSERT INTO `shen_zheng_gushi`.`missing_value`... " />
+                <marker date="1504532066576" expanded="true" signature="2223:2459" placeholder="create table... if" />
+                <marker date="1504532066576" expanded="true" signature="2585:2698" placeholder="INSERT INTO `shen_zheng_gushi`.`missing_value`... " />
+                <marker date="1504532066576" expanded="true" signature="3105:3145" placeholder="SELECT date " />
+                <marker date="1504532066576" expanded="true" signature="3332:3459" placeholder="SELECT date,... " />
+                <marker date="1504532066576" expanded="true" signature="3911:3965" placeholder="SELECT id,cl... " />
+                <marker date="1504532066576" expanded="true" signature="3981:4034" placeholder="SELECT close... " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,6 +270,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -139,10 +284,31 @@
       <list>
         <option value="$PROJECT_DIR$/douban250second.py" />
         <option value="$PROJECT_DIR$/myjson.py" />
-        <option value="$PROJECT_DIR$/douban250.py" />
         <option value="$PROJECT_DIR$/firstpython/shen_gutong_json.py" />
         <option value="$PROJECT_DIR$/matplot.py" />
+        <option value="$PROJECT_DIR$/try_shuzu_zifucuan.py" />
+        <option value="$PROJECT_DIR$/malplotlib.py" />
+        <option value="$PROJECT_DIR$/o.py" />
+        <option value="$PROJECT_DIR$/douban250.py" />
+        <option value="$PROJECT_DIR$/fund.py" />
         <option value="$PROJECT_DIR$/shen_gutong_json.py" />
+        <option value="$PROJECT_DIR$/shen_gutong_json_2.py" />
+        <option value="$PROJECT_DIR$/shen_gu_tong_2.py" />
+        <option value="$PROJECT_DIR$/malplotlib_2.py" />
+        <option value="$PROJECT_DIR$/shen_gu_tong.py" />
+        <option value="$PROJECT_DIR$/malplotlib_shen_gu_tong.py" />
+        <option value="$PROJECT_DIR$/try.py" />
+        <option value="$PROJECT_DIR$/shen_gu_tong_analyze_jinrongjie.py" />
+        <option value="$PROJECT_DIR$/malplotlib_hu_gu_tong.py" />
+        <option value="$PROJECT_DIR$/chigu_malplotlib.py" />
+        <option value="$PROJECT_DIR$/chigu_hu_shen_gutong.py" />
+        <option value="$PROJECT_DIR$/chigu_matplotlib.py" />
+        <option value="$PROJECT_DIR$/try_1.py" />
+        <option value="$PROJECT_DIR$/shen_gutong_and_hu_gutong.py" />
+        <option value="$PROJECT_DIR$/shen_gu_tong_analyze.py" />
+        <option value="$PROJECT_DIR$/hu_gu_tong_analyze.py" />
+        <option value="$PROJECT_DIR$/chigu_fund.py" />
+        <option value="$PROJECT_DIR$/matplot_jinrong_sanmache.py" />
       </list>
     </option>
   </component>
@@ -151,14 +317,25 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven\maven\repository" />
+        <option name="mavenHome" value="D:/apache-maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\apache-maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
   <component name="MavenRunner">
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="34" />
-    <option name="y" value="181" />
-    <option name="width" value="3856" />
-    <option name="height" value="2076" />
+    <option name="x" value="-12" />
+    <option name="width" value="2750" />
+    <option name="height" value="1746" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -185,8 +362,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -208,10 +383,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -221,15 +398,16 @@
     <property name="last_opened_file_path" value="C:/Anaconda3/python.exe" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\pythonproject\firstpython\firstpython" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\pythonproject\firstpython" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhou\IdeaProjects\firstpython" />
+      <recent name="F:\pythonproject\firstpython\firstpython" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.matplot">
-    <configuration default="false" name="douban250second" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.matplot_jinrong_sanmache">
+    <configuration default="false" name="shen_gu_tong_analyze" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -242,30 +420,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="firstpython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douban250second.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shen_gu_tong_analyze.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="shen_gutong_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/firstpython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="firstpython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\pythonproject\firstpython\shen_gutong_json.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="myjson" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="hu_gu_tong_analyze" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -278,12 +438,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="firstpython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myjson.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hu_gu_tong_analyze.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="douban250" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="chigu_hu_shen_gutong" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -296,12 +456,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="firstpython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douban250.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chigu_hu_shen_gutong.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="matplot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="chigu_fund" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -314,7 +474,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="firstpython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chigu_fund.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="matplot_jinrong_sanmache" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="firstpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplot_jinrong_sanmache.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -906,19 +1084,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.douban250second" />
-      <item index="1" class="java.lang.String" itemvalue="Python.shen_gutong_json" />
-      <item index="2" class="java.lang.String" itemvalue="Python.myjson" />
-      <item index="3" class="java.lang.String" itemvalue="Python.douban250" />
-      <item index="4" class="java.lang.String" itemvalue="Python.matplot" />
+      <item index="0" class="java.lang.String" itemvalue="Python.shen_gu_tong_analyze" />
+      <item index="1" class="java.lang.String" itemvalue="Python.hu_gu_tong_analyze" />
+      <item index="2" class="java.lang.String" itemvalue="Python.chigu_hu_shen_gutong" />
+      <item index="3" class="java.lang.String" itemvalue="Python.chigu_fund" />
+      <item index="4" class="java.lang.String" itemvalue="Python.matplot_jinrong_sanmache" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.matplot" />
-        <item index="1" class="java.lang.String" itemvalue="Python.shen_gutong_json" />
-        <item index="2" class="java.lang.String" itemvalue="Python.douban250" />
-        <item index="3" class="java.lang.String" itemvalue="Python.myjson" />
-        <item index="4" class="java.lang.String" itemvalue="Python.douban250second" />
+        <item index="0" class="java.lang.String" itemvalue="Python.matplot_jinrong_sanmache" />
+        <item index="1" class="java.lang.String" itemvalue="Python.chigu_fund" />
+        <item index="2" class="java.lang.String" itemvalue="Python.chigu_hu_shen_gutong" />
+        <item index="3" class="java.lang.String" itemvalue="Python.hu_gu_tong_analyze" />
+        <item index="4" class="java.lang.String" itemvalue="Python.shen_gu_tong_analyze" />
       </list>
     </recent_temporary>
   </component>
@@ -942,6 +1120,44 @@
       <workItem from="1499425488250" duration="1144000" />
       <workItem from="1499429753745" duration="51000" />
       <workItem from="1499432758414" duration="649000" />
+      <workItem from="1499491948030" duration="636000" />
+      <workItem from="1499663831060" duration="410000" />
+      <workItem from="1499921495134" duration="4046000" />
+      <workItem from="1499934418612" duration="1502000" />
+      <workItem from="1500094675286" duration="14059000" />
+      <workItem from="1500128088521" duration="933000" />
+      <workItem from="1500164845967" duration="14855000" />
+      <workItem from="1500209617730" duration="3942000" />
+      <workItem from="1500269244528" duration="3997000" />
+      <workItem from="1500352929276" duration="5267000" />
+      <workItem from="1500427203841" duration="8831000" />
+      <workItem from="1500438492154" duration="4556000" />
+      <workItem from="1500443168330" duration="7146000" />
+      <workItem from="1500527218731" duration="2511000" />
+      <workItem from="1500529790458" duration="1981000" />
+      <workItem from="1500552699250" duration="3105000" />
+      <workItem from="1500611545034" duration="5049000" />
+      <workItem from="1500788968910" duration="15736000" />
+      <workItem from="1500818955223" duration="731000" />
+      <workItem from="1500819775862" duration="5486000" />
+      <workItem from="1501129525827" duration="1144000" />
+      <workItem from="1501131781866" duration="4209000" />
+      <workItem from="1501161177920" duration="2706000" />
+      <workItem from="1501216590777" duration="5848000" />
+      <workItem from="1501286478058" duration="12496000" />
+      <workItem from="1501300432240" duration="9301000" />
+      <workItem from="1501563233775" duration="2851000" />
+      <workItem from="1501652024876" duration="3478000" />
+      <workItem from="1501677650199" duration="2632000" />
+      <workItem from="1501730790594" duration="7679000" />
+      <workItem from="1501820093762" duration="4945000" />
+      <workItem from="1501983079852" duration="9887000" />
+      <workItem from="1502080628584" duration="2961000" />
+      <workItem from="1502112015790" duration="1849000" />
+      <workItem from="1502772027363" duration="6460000" />
+      <workItem from="1502805082302" duration="544000" />
+      <workItem from="1503103806949" duration="6399000" />
+      <workItem from="1504531917872" duration="256000" />
     </task>
     <task id="LOCAL-00001" summary="firstpython爬虫">
       <created>1498820273553</created>
@@ -1019,7 +1235,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30950000" />
+    <option name="totallyTimeSpent" value="221374000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1031,40 +1247,72 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="181" width="3856" height="2076" extended-state="0" />
+    <frame x="-12" y="0" width="2750" height="1746" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.49892703" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40045506" sideWeight="0.49676377" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993174" sideWeight="0.50323623" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25563306" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.49785408" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29294652" sideWeight="0.4967811" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33390215" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52657557" sideWeight="0.5060423" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25547996" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32885003" sideWeight="0.49785408" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33311126" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31014025" sideWeight="0.7622298" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296674" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972253" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20501138" sideWeight="0.7622298" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296674" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494331" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981104" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20514905" sideWeight="0.5071851" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38566554" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821387" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36516476" sideWeight="0.4939577" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40045506" sideWeight="0.49676377" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298274" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33390215" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296674" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.399462" sideWeight="0.4939577" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298274" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33390215" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296674" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2473176" sideWeight="0.2377702" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26905575" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26746505" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52683294" sideWeight="0.5060423" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25547996" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296674" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494331" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981104" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36516476" sideWeight="0.4939577" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.49892703" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40045506" sideWeight="0.49676377" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934132" sideWeight="0.49785408" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41450432" sideWeight="0.4939577" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298274" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33311126" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33390215" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20392749" sideWeight="0.7622298" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296674" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2473176" sideWeight="0.2377702" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26746505" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20514905" sideWeight="0.5071851" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1084,263 +1332,209 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="python-line">
+        <line-breakpoint type="python-line">
           <url>file://$PROJECT_DIR$/douban250.py</url>
           <line>43</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
+        <line-breakpoint type="python-line">
           <url>file://$PROJECT_DIR$/douban250.py</url>
           <line>44</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/malplotlib.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/malplotlib.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/malplotlib.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/shen_gu_tong_analyze_jinrongjie.py</url>
+          <line>148</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/shen_gu_tong_analyze_jinrongjie.py</url>
+          <line>141</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/shen_gu_tong_analyze_jinrongjie.py</url>
+          <line>153</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/shen_gu_tong_analyze_jinrongjie.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <condition expression="gupiao_daima[0]=='002415'" language="Python" />
+          <url>file://$PROJECT_DIR$/shen_gu_tong_analyze_jinrongjie.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <condition expression="gupiao_daima[0]=='002415'" language="Python" />
+          <url>file://$PROJECT_DIR$/shen_gu_tong_analyze_jinrongjie.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/chigu_fund.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/chigu_fund.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/chigu_fund.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/chigu_fund.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/chigu_fund.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/shen_gu_tong_analyze.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/shen_gu_tong_analyze.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/shen_gu_tong_analyze.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/shen_gu_tong_analyze.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/shen_gu_tong_analyze.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/hu_gu_tong_analyze.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/shen_gu_tong_analyze.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/shen_gu_tong_analyze.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/shen_gu_tong_analyze_jinrongjie.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/shen_gu_tong_analyze.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/hu_gu_tong_analyze.py</url>
+          <line>150</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/hu_gu_tong_analyze.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/hu_gu_tong_analyze.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/hu_gu_tong_analyze.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/hu_gu_tong_analyze.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/hu_gu_tong_analyze.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/hu_gu_tong_analyze.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="141" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="gupiao_daima" />
+        <watch expression="i" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/matplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban250.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban250second.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#17#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myjson.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="62" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shen_gutong_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding>
-            <marker date="1499406978348" expanded="true" signature="930:1164" placeholder="INSERT INTO `gushi`.`shen_money`... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstpython.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run-mongod.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban250.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban250second.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#17#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myjson.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="62" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shen_gutong_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding>
-            <marker date="1499406978348" expanded="true" signature="930:1164" placeholder="INSERT INTO `gushi`.`shen_money`... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstpython.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run-mongod.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban250.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban250second.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="23" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="23" />
-          <folding>
-            <element signature="e#17#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myjson.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="62" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shen_gutong_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1499406978348" expanded="true" signature="930:1164" placeholder="INSERT INTO `gushi`.`shen_money`... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run-mongod.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban250.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban250second.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="23" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="23" />
-          <folding>
-            <element signature="e#17#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myjson.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="62" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shen_gutong_json.py">
+    <entry file="file://$PROJECT_DIR$/shen_gutong_jinrongjie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="12" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="12" />
-          <folding>
-            <marker date="1499406978348" expanded="true" signature="930:1164" placeholder="INSERT INTO `gushi`.`shen_money`... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1348,7 +1542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1356,7 +1549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1372,9 +1564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="42" column="23" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="23" />
-          <folding>
-            <element signature="e#17#55#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1382,17 +1571,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="62" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shen_gutong_json.py">
+    <entry file="file://$PROJECT_DIR$/shen_gutong_jinrongjie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1499406978348" expanded="true" signature="930:1164" placeholder="INSERT INTO `gushi`.`shen_money`... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1408,9 +1593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="42" column="23" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="23" />
-          <folding>
-            <element signature="e#17#55#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1418,17 +1600,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="62" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shen_gutong_json.py">
+    <entry file="file://$PROJECT_DIR$/shen_gutong_jinrongjie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1499406978348" expanded="true" signature="930:1164" placeholder="INSERT INTO `gushi`.`shen_money`... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1444,9 +1622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#17#55#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1454,55 +1629,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#17#55#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python36-32/Lib/json/decoder.py">
+    <entry file="file://C:/Anaconda3/Lib/site-packages/matplotlib/figure.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46867168">
-          <caret line="356" column="0" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python36-32/Lib/sre_parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33285093">
-          <caret line="521" column="0" selection-start-line="521" selection-start-column="0" selection-end-line="521" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myjson.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="62" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban250.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="231" column="0" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1510,17 +1643,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shen_gutong_json.py">
+    <entry file="file://C:/Anaconda3/Lib/site-packages/matplotlib/axes/_axes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding>
-            <marker date="1499406978348" expanded="true" signature="930:1164" placeholder="INSERT INTO `gushi`.`shen_money`... " />
-          </folding>
+        <state vertical-scroll-proportion="0.33301252">
+          <caret line="2104" column="0" selection-start-line="2104" selection-start-column="0" selection-end-line="2104" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1528,16 +1657,330 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_shuzu_zifucuan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="2394" column="0" selection-start-line="2394" selection-start-column="0" selection-end-line="2394" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_PLUGINS_DIR$/python/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="1022" column="6" selection-start-line="1022" selection-start-column="6" selection-end-line="1022" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douban250.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mymultiprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myjson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/pymysql/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/douban250second.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03472631">
-          <caret line="42" column="23" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3329897">
+          <caret line="165" column="0" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/malplotlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0364011">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liangyicheng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47318235">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33252132">
+          <caret line="392" column="0" selection-start-line="392" selection-start-column="0" selection-end-line="392" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gu_shi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12974297">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/malplotlib_hu_gu_tong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/malplotlib_jinrongjie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8727491">
+          <caret line="88" column="19" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/matplotlib/dates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.332533">
+          <caret line="436" column="6" selection-start-line="436" selection-start-column="6" selection-end-line="436" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shen_gutong_jinrongjie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12563452">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/malplotlib_shen_gu_tong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
           <folding>
-            <element signature="e#17#55#0" expanded="true" />
+            <element signature="e#0#37#0" expanded="true" />
+            <marker date="1504532066574" expanded="true" signature="2206:2299" placeholder="SELECT mai_c... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shen_gu_tong_analyze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="113" column="27" selection-start-line="95" selection-start-column="4" selection-end-line="113" selection-end-column="27" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
+            <marker date="1504532066576" expanded="true" signature="106:189" placeholder="select disti... shen_gutong" />
+            <marker date="1504532066576" expanded="true" signature="338:363" placeholder="DROP TABLE I... " />
+            <marker date="1504532066576" expanded="true" signature="364:587" placeholder="CREATE TABLE... missing_value" />
+            <marker date="1504532066576" expanded="true" signature="601:714" placeholder="INSERT INTO `shen_zheng_gushi`.`missing_value`... " />
+            <marker date="1504532066576" expanded="true" signature="1221:1261" placeholder="SELECT max(d... shen_zheng_gushi." />
+            <marker date="1504532066576" expanded="true" signature="1221:1264" placeholder="SELECT max(d... " />
+            <marker date="1504532066576" expanded="true" signature="1496:1602" placeholder="select TABLE... TABLES" />
+            <marker date="1504532066576" expanded="true" signature="1739:1852" placeholder="INSERT INTO `shen_zheng_gushi`.`missing_value`... " />
+            <marker date="1504532066576" expanded="true" signature="2223:2459" placeholder="create table... if" />
+            <marker date="1504532066576" expanded="true" signature="2585:2698" placeholder="INSERT INTO `shen_zheng_gushi`.`missing_value`... " />
+            <marker date="1504532066576" expanded="true" signature="3105:3145" placeholder="SELECT date " />
+            <marker date="1504532066576" expanded="true" signature="3332:3459" placeholder="SELECT date,... " />
+            <marker date="1504532066576" expanded="true" signature="3911:3965" placeholder="SELECT id,cl... " />
+            <marker date="1504532066576" expanded="true" signature="3981:4034" placeholder="SELECT close... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hu_gu_tong_analyze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="100" selection-start-line="75" selection-start-column="100" selection-end-line="75" selection-end-column="100" />
+          <caret line="75" column="118" selection-start-line="75" selection-start-column="118" selection-end-line="75" selection-end-column="118" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
+            <marker date="1504532066569" expanded="true" signature="106:191" placeholder="select disti... shang_gutong" />
+            <marker date="1504532066569" expanded="true" signature="340:365" placeholder="DROP TABLE I... " />
+            <marker date="1504532066569" expanded="true" signature="366:590" placeholder="CREATE TABLE... missing_value" />
+            <marker date="1504532066569" expanded="true" signature="604:718" placeholder="INSERT INTO `shang_zheng_gushi`.`missing_value`... " />
+            <marker date="1504532066569" expanded="true" signature="1225:1269" placeholder="SELECT max(d... missing_value" />
+            <marker date="1504532066569" expanded="true" signature="1501:1608" placeholder="select TABLE... TABLES" />
+            <marker date="1504532066569" expanded="true" signature="1745:1859" placeholder="INSERT INTO `shang_zheng_gushi`.`missing_value`... " />
+            <marker date="1504532066569" expanded="true" signature="2230:2467" placeholder="create table... if" />
+            <marker date="1504532066569" expanded="true" signature="2593:2707" placeholder="INSERT INTO `shang_zheng_gushi`.`missing_value`... " />
+            <marker date="1504532066569" expanded="true" signature="3112:3153" placeholder="SELECT date " />
+            <marker date="1504532066569" expanded="true" signature="3340:3469" placeholder="SELECT date,... " />
+            <marker date="1504532066569" expanded="true" signature="3921:3976" placeholder="SELECT id,cl... " />
+            <marker date="1504532066569" expanded="true" signature="3992:4046" placeholder="SELECT close... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shen_gutong_and_hu_gutong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="100" column="82" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="82" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1504532066578" expanded="true" signature="2439:2564" placeholder="INSERT INTO `gushi`.`shen_money`... " />
+            <marker date="1504532066578" expanded="true" signature="2439:2659" placeholder="INSERT INTO `shen_zheng_gushi`.`shen_gutong`... " />
+            <marker date="1504532066578" expanded="true" signature="2439:2660" placeholder="INSERT INTO `gushi`.`shen_money`... " />
+            <marker date="1504532066578" expanded="true" signature="3027:3062" placeholder="SELECT date " />
+            <marker date="1504532066578" expanded="true" signature="3027:3063" placeholder="SELECT date " />
+            <marker date="1504532066578" expanded="true" signature="3027:3066" placeholder="SELECT date " />
+            <marker date="1504532066578" expanded="true" signature="3027:3081" placeholder="SELECT date " />
+            <marker date="1504532066578" expanded="true" signature="3027:3082" placeholder="SELECT date " />
+            <marker date="1504532066578" expanded="true" signature="3363:3600" placeholder="create table... if" />
+            <marker date="1504532066578" expanded="true" signature="3700:3814" placeholder="INSERT INTO `gushi`.`missing_value`... " />
+            <marker date="1504532066578" expanded="true" signature="4148:4200" placeholder="SELECT max(d... shang_gutong" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shen_gu_tong_analyze_jinrongjie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding>
+            <marker date="1504532066577" expanded="true" signature="106:177" placeholder="select disti... shen_money" />
+            <marker date="1504532066577" expanded="true" signature="326:351" placeholder="DROP TABLE I... " />
+            <marker date="1504532066577" expanded="true" signature="352:564" placeholder="CREATE TABLE... missing_value" />
+            <marker date="1504532066577" expanded="true" signature="578:680" placeholder="INSERT INTO `gushi`.`missing_value`... " />
+            <marker date="1504532066577" expanded="true" signature="1252:1320" placeholder="select TABLE... TABLES" />
+            <marker date="1504532066577" expanded="true" signature="1252:1343" placeholder="select TABLE... TABLES" />
+            <marker date="1504532066577" expanded="true" signature="1252:1347" placeholder="select TABLE... TABLES" />
+            <marker date="1504532066577" expanded="true" signature="1252:1348" placeholder="select TABLE... TABLES" />
+            <marker date="1504532066577" expanded="true" signature="1484:1586" placeholder="INSERT INTO `gushi`.`missing_value`... " />
+            <marker date="1504532066577" expanded="true" signature="1957:2182" placeholder="create table... if" />
+            <marker date="1504532066577" expanded="true" signature="2307:2409" placeholder="INSERT INTO `gushi`.`missing_value`... " />
+            <marker date="1504532066577" expanded="true" signature="2816:2840" placeholder="SELECT date " />
+            <marker date="1504532066577" expanded="true" signature="2816:2845" placeholder="SELECT date " />
+            <marker date="1504532066577" expanded="true" signature="3032:3139" placeholder="SELECT date,... " />
+            <marker date="1504532066577" expanded="true" signature="3591:3619" placeholder="SELECT id,cl... " />
+            <marker date="1504532066577" expanded="true" signature="3591:3634" placeholder="SELECT id,cl... " />
+            <marker date="1504532066577" expanded="true" signature="3591:3636" placeholder="SELECT id,cl... " />
+            <marker date="1504532066577" expanded="true" signature="3650:3680" placeholder="SELECT close... " />
+            <marker date="1504532066577" expanded="true" signature="3650:3692" placeholder="SELECT close... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chigu_hu_shen_gutong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+          <folding>
+            <marker date="1504532066567" expanded="true" signature="228:282" placeholder="SELECT date " />
+            <marker date="1504532066567" expanded="true" signature="2418:2690" placeholder="INSERT INTO `chigu`.`shang_zheng`... " />
+            <marker date="1504532066567" expanded="true" signature="2716:2989" placeholder="INSERT INTO `chigu`.`shen_zheng`... " />
+            <marker date="1504532066567" expanded="true" signature="3568:3606" placeholder="SELECT max(d... shen_zheng" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chigu_fund.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <marker date="1504532066566" expanded="true" signature="1054:1074" placeholder="INSERT INTO `fund`.... " />
+            <marker date="1504532066566" expanded="true" signature="1054:1201" placeholder="INSERT INTO `fund`.`missing_value`... " />
+            <marker date="1504532066566" expanded="true" signature="1610:1704" placeholder="select TABLE... TABLES" />
+            <marker date="1504532066566" expanded="true" signature="1890:1925" placeholder="create table... if" />
+            <marker date="1504532066566" expanded="true" signature="1890:2199" placeholder="CREATE TABLE... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chigu_matplotlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="151" column="4" selection-start-line="151" selection-start-column="4" selection-end-line="151" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <marker date="1504532066568" expanded="true" signature="2895:2988" placeholder="SELECT mai_c... " />
+            <marker date="1504532066568" expanded="true" signature="2895:3001" placeholder="SELECT mai_c... " />
+            <marker date="1504532066568" expanded="true" signature="3344:3424" placeholder="SELECT date,... " />
+            <marker date="1504532066568" expanded="true" signature="3344:3437" placeholder="SELECT date,... " />
+            <marker date="1504532066568" expanded="true" signature="3882:3961" placeholder="SELECT date,... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/matplotlib/finance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="415" column="32" selection-start-line="415" selection-start-column="4" selection-end-line="415" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplot_jinrong_sanmache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16719243">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>

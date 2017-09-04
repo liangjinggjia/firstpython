@@ -47,11 +47,11 @@ def get_content(pageno):
             beforeintroduce=re.findall(r'/\s(.*)\s*</p>',str(bd))[0]
             # $表示匹配最后一项符合要求的
             introduce=re.findall(r'[^/]+$',str(beforeintroduce))[0]
-            # print("片名：{}\t{}\n{}\n{} \n \n ".format(name,year,director,introduce) )
+            print("片名：{}\t{}\n{}\n{} \n \n ".format(name,year,director,introduce) )
 
-            if(os.path.exists(r'douban250img/{}.png'.format(name))!=True):
-                with open('douban250img/'+name+'.png','wb+') as f:
-                    f.write(requests.get(img_url).content)
+            # if(os.path.exists(r'douban250img/{}.png'.format(name))!=True):
+            #     with open('douban250img/'+name+'.png','wb+') as f:
+            #         f.write(requests.get(img_url).content)
         # except:
         #     print('在{0}页出问题'.format(pageno))
 
